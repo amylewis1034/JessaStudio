@@ -6,6 +6,9 @@ theme = 'ananke'
 [params]
   description = "Vocal & piano lessons in Elk Grove, CA and online via Zoom."
 
+[params.ananke]
+  show_recent_posts = false
+
 [[menu.main]]
   name = "Home"
   url = "/"
