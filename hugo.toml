@@ -1,10 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Jessa Studio'
+title = "Jessa's Studio"
 theme = 'ananke'
 
 [params]
   description = "Vocal & piano lessons in Elk Grove, CA and online via Zoom."
+  custom_css = ["custom.css"]
 
 [params.ananke]
   show_recent_posts = false

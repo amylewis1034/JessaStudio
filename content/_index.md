@@ -1,5 +1,5 @@
 ---
-title: "Jessa Studio"
+title: "Jessa's Studio"
 description: "Vocal & piano lessons in Elk Grove, CA and online via Zoom."
 ---
 

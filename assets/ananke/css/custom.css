@@ -1,0 +1,20 @@
+/* Baby pink background overrides */
+
+/* Header title and description text */
+header h1.light-silver,
+header h2.white-80 {
+  color: #FFB6C1 !important;
+}
+
+
+.bg-white {
+  background-color: #FFB6C1 !important;
+}
+
+.bg-near-white {
+  background-color: #FFE4E8 !important;
+}
+
+.pagination li a {
+  background-color: #FFB6C1 !important;
+}
