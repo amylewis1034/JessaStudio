@@ -1,3 +1,29 @@
+/* Site logo */
+.site-logo {
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Sticky footer */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+/* Nav logo */
+nav .w100 {
+  max-width: 120px;
+  height: auto;
+}
+
 /* Baby pink background overrides */
 
 /* Header title and description text */

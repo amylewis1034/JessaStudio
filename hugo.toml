@@ -6,6 +6,7 @@ theme = 'ananke'
 [params]
   description = "Vocal & piano lessons in Elk Grove, CA and online via Zoom."
   custom_css = ["custom.css"]
+  site_logo = "images/logo.png"
 
 [params.ananke]
   show_recent_posts = false
